@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocusStudio</string>
+    <string name="main_TCC">TCC de Analise e Desenvolvimento de Sistemas</string>
+    <string name="main_Aluno">Aluno</string>
+    <string name="main_NomeAluno">Carlos Alberto Armiliato</string>
+    <string name="main_cmdEntrar">Entrar</string>
+</resources>
